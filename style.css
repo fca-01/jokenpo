@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   background: #f6f7fb;
-  background-image: url(/download.gif);
+  background-image: url(download.gif);
   background-size: cover;
   background-position: center;
   background-color: aqua;
